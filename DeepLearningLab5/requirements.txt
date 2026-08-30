@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-datasets>=4.9.0
+tensorflow-metadata>=1.21.0
+protobuf>=6.31.0
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
