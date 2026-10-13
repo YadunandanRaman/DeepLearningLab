@@ -1,0 +1,7 @@
+# Colab already provides most of these. Do not reinstall tensorflow on Colab unless it is older than 2.16.
+tensorflow>=2.16        # Keras 3 is required (weights are saved as .weights.h5)
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas

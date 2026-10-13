@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# large generated data and weights
+outputs/saved_data/
+outputs/saved_model/
+outputs_quick/
+datasets/
+*.weights.h5
+*.npy
+*.npz
